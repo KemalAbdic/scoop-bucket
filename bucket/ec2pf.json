@@ -9,7 +9,7 @@
             "hash": ""
         }
     },
-    "bin": "ec2pf.exe",
+    "bin": [["ec2pf.exe", "ec2pf"]],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
